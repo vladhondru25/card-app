@@ -2,7 +2,7 @@
 
 ## Goal
 
-This is a simple mobile applcation developed with Flutter that presents my contact details as a card.
+This is a simple mobile application developed with Flutter that presents my contact details as a card.
 
 ![Personal card](https://github.com/vladhondru25/card-app/blob/master/Screenshot.png)
 
